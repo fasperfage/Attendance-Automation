@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-02-2017, 14:11:29
+    Author     : Kasper
+*/
+
+
+.color1 {
+    -fx-background-color: rgb(250, 230, 20);}
+
+.darkness {
+    -fx-background-color: rgb(0,20,70);}
+
+.color2 {
+    -fx-background-color: rgb(249,32,32);}
+
